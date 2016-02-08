@@ -2,20 +2,20 @@ These are the materials prepared for the gpu class at northeastern university.
 
 Three lectures are presented, covering the following topics.
 
-[1] Lecture 1
+[1] Lecture 4 - gpu memory
   - shared memory
   - matrix multiplication optimization
   - bank conflicts 
   - other memory types
 
 
-[2] Lecture 2
+[2] Lecture 5
   - Pinned vs Non-pinned Memory
   - Dual copy engines
   - Unified Memory
  
 
-[3] Lecture 3 (Optimization Tricks)
+[3] Lecture 6 (Optimization Tricks)
   - Profiling
   - Reduce branch divergence
   - Loop unrolling
