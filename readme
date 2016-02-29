@@ -15,8 +15,7 @@ Three lectures are presented, covering the following topics.
   - Unified Memory
  
 
-[3] Lecture 6 (Optimization Tricks)
-  - Profiling
-  - Reduce branch divergence
-  - Loop unrolling
-  - Coalescing access
+[3] Lecture 6 (Application Optimization)
+  - prefix sum (scan)
+  - histogram
+  - convolution
