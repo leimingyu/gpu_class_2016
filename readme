@@ -11,8 +11,9 @@ Three lectures are presented, covering the following topics.
 
 [2] Lecture 5
   - Pinned vs Non-pinned Memory
-  - Dual copy engines
   - Unified Memory
+  - Dual copy engines / Concurrency
+  - Parallel Reduction
  
 
 [3] Lecture 6 (Application Optimization)
